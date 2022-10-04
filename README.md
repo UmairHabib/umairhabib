@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umair Habib</h1>
-<h3 align="center">A passionate Full Stack Developer (BE-Focused)</h3>
+<h3 align="center">Passionate Full Stack Developer (BE-Focused)</h3>
 
 - 👨‍💻 - Backend Developer at xiQ Inc **— June 2021 to June 2022**
 
-- 🌱 I’m currently learning **AWS services**
+- 🌱 - I’m currently learning **AWS services**
 
 - 👨‍💻 - Software Engineer at i2c Inc **— June 2020 to March 2021**
 
